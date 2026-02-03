@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <div>
-      Prompt Manager
-    </div>
-  );
+  return <div>Prompt Manager</div>;
 }
